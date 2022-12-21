@@ -1,5 +1,5 @@
 import "./App.css";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 import { MainMenu } from "./pages/MainMenu";
 import { Suspense } from "react";
 import { Loading } from "./components/Loading";
