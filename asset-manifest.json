@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/darts_app/static/css/main.683bb2d8.css",
+    "main.js": "/darts_app/static/js/main.18152c43.js",
+    "static/media/menu_image.png": "/darts_app/static/media/menu_image.a7fb35dd52208067de9e.png",
+    "index.html": "/darts_app/index.html",
+    "main.683bb2d8.css.map": "/darts_app/static/css/main.683bb2d8.css.map",
+    "main.18152c43.js.map": "/darts_app/static/js/main.18152c43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.683bb2d8.css",
+    "static/js/main.18152c43.js"
+  ]
+}
